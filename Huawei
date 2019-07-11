@@ -1,7 +1,7 @@
 Out of the box hacked hardware
 As the cyber threat landscape evolves, corporations must remain ever vigilant to protect their trade secrets from nation-state level actors. Recent reports from security firms Finite State & ReFirm Labs 
 have detailed the recent abuse of intentionally placed backdoor vulnerabilities in Chineese made devices, particularly devices sold by Huawei, and Dahua. What they've found after checking 1.5 million
-firmware files from 558 Huawei enterprise-grade devices is, on average, 102 vulnerabilities exist within *each device*. Of those 102 vulnerabilities, over a quarter are critical vulnverabilities, which can
+firmware files from 558 Huawei enterprise-grade devices is, on average, 102 vulnerabilities exist within *each device*. Of those 102 vulnerabilities, over a quarter are critical vulnerabilities, which can
 allow hackers full access to these devices. What's alarming about those numbers is that these purposefully vulnerable backdoors are discovered and opened daily. ReFirm labs found such a backdoor in a corporate 
 environment, the Dahua-Made device was broadcasting on a rarely-used protocol, sneaking through the corporation's firewall, and pinging directly to an IP located in China. A year later, congress banned 
 Dahua's cameras from being sold in the United States. 
@@ -13,7 +13,7 @@ traffic in and out of networks.
 
 Resources:
 The office of the Director of National Intelligence has accumulated a wealth of knowledge on supply-chain threats, and they kindly made this information available to us. Partnered with the National 
-Counterinteligence and Security Center, they released a 20 page publication, "Foreign Economic Espionage in Cyberspace", which outlines the strategy of nation-state level actors currently trying to harm 
+Counterintelligence and Security Center, they released a 20 page publication, "Foreign Economic Espionage in Cyberspace", which outlines the strategy of nation-state level actors currently trying to harm 
 U.S. based corporations.
 https://www.dni.gov/files/NCSC/documents/supplychain/20190327-economic-espionage-pub02.pdf
 https://www.dni.gov/index.php/ncsc-what-we-do/ncsc-supply-chain-threats
