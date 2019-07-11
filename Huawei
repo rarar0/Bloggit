@@ -1,0 +1,12 @@
+Out of the box hacked hardware
+As the cyber threat landscape evolves, corporations must remain ever vigilant to protect their trade secrets from nation-state level actors. Recent reports from security firms Finite State & ReFirm Labs 
+have detailed the recent abuse of intentionally placed backdoor vulnerabilities in Chineese made devices, particularly devices sold by Huawei, and Dahua. What they've found after checking 1.5 million
+firmware files from 558 Huawei enterprise-grade devices is, on average, 102 vulnerabilities exist within *each device*. Of those 102 vulnerabilities, over a quarter are critical vulnverabilities, which can
+allow hackers full access to these devices. What's alarming about those numbers is that these purposefully vulnerable backdoors are discovered and opened daily. ReFirm labs found such a backdoor in a corporate 
+environment, the Dahua-Made device was broadcasting on a rarely-used protocol, sneaking through the corporation's firewall, and pinging directly to an IP located in China. A year later, congress banned 
+Dahua's cameras from being sold in the United States. 
+
+What can you do?
+Make sure your company is purchasing hardware from reputable vendors who focus on reliability, and security. Protocol46 offers persistent endpoint threat monitoring to keep an eye on vulnerabilities 
+and close any potential backdoors. Protocol46's Stonewall Aegis firewall systems can prevent trade secrets from being exfiltrated to malicious actors. This is accomplished by locking down and monitoring the
+traffic in and out of networks.
